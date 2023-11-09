@@ -4,7 +4,7 @@
   "description": "Nyan Meme Coin Total Supplies API",
   "main": "index.js",
   "scripts": {
-    "build": "bun build ",
+    "build": "bun build src/index.ts",
     "start": "node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
